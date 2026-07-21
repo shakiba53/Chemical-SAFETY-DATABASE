@@ -1,4 +1,4 @@
-1#Chemical Safety Database:
+#Chemical Safety Database: 
 #A Python-based chemical information management system that provides:
 #Chemical identification by name or formula
 # Physical and chemical properties
